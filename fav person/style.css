@@ -49,46 +49,7 @@ h1 {
 
 /* Tablet */
 @media screen and (min-width: 450px) {
-    /*
-    .grid-container {
-        grid-template-columns: repeat(2, auto);
-        grid-template-rows: repeat(6, auto);
-        grid-template-areas: "name stats"
-                             "pic2  about"
-                             "pic3  about"
-                             "pic1  pic1"
-                             "fav   fav"
-                             "foot  foot";
-        width: 100%;
-        height: 100%;
-    }
-
-    #item1 {
-        grid-area: pic1;
-    }
-    #item2 {
-        grid-area: name;
-    }
-    #item3 {
-        grid-area: stats;
-    }
-    #item4 {
-        grid-area: about;
-    }
-    #item5 {
-        grid-area: pic2;
-    }
-    #item6 {
-        grid-area: fav;
-    }
-    #item7 {
-        grid-area: pic3;
-    }
-    #item8 {
-        grid-area: foot;
-    }
-
-*/
+    
 }
 
 /* Desktop */
